@@ -1,6 +1,4 @@
 - 👋 Namaste, I’m @badalwanjari
-- 🌱 I’m looking towards better future
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can always contact me via instagram @badal_wanjari or https://www.instagram.com/badal_wanjari/
 
 <!---
