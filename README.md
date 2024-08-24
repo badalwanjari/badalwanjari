@@ -1,4 +1,4 @@
-👋 Namaste, I’m @badalwanjari
+👋 Namaste, I’m @badalwanjari \
 📫 You can always contact me on [LinkedIn](https://www.linkedin.com/in/badalwanjari/) 
 
 <!---
