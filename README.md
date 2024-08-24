@@ -1,5 +1,7 @@
 👋 Namaste, I’m @badalwanjari, I call myself a tech enthusiast and problem solver\
-📫 You can always contact me on [LinkedIn](https://www.linkedin.com/in/badalwanjari/) 
+\
+📫 You can always contact me on [LinkedIn](https://www.linkedin.com/in/badalwanjari/) \
+\
 ✌️ Visit my [portfolio site](https://badalwanjari.vercel.app/) to know more about me
 
 <!---
