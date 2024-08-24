@@ -1,5 +1,6 @@
 - 👋 Namaste, I’m @badalwanjari
-- 📫 You can always contact me via instagram @badal_wanjari or https://www.instagram.com/badal_wanjari/
+- 📫 You can always contact me on [LinkedIn](https://www.linkedin.com/in/badalwanjari/)
+- 
 
 <!---
 badalwanjari/badalwanjari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
